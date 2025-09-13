@@ -1,7 +1,8 @@
 
   # Doctor Booking App
 
-  This is a code bundle for Doctor Booking App. The original project is available at https://www.figma.com/design/rRU3BsAvwL40O8nVwxs4vA/Doctor-Booking-App.
+  This is a code bundle for Doctor Booking App. 
+  live demo could be accessed at https://peterwilson34.github.io/doctor-booking/
 
   ## Running the code
 
